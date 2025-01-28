@@ -177,7 +177,7 @@ aside button i{
 
 main{
     grid-area: right;
-    background-image: url(../img/download.jfif);
+    background-image: url(download.jfif);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: right; 
